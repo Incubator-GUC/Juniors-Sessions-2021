@@ -6,6 +6,6 @@
 
 ### Useful links
 
-- (W3Schools)["https://www.w3schools.com/"]
+- [W3Schools]("https://www.w3schools.com/")
 - [Codecademy]("https://www.codecademy.com/")
 - [Picsum]("https://picsum.photos/") (Images to test with)
